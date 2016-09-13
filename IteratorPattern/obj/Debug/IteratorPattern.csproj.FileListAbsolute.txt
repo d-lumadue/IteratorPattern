@@ -1,0 +1,9 @@
+c:\users\dusty_000\documents\visual studio 2015\Projects\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.exe.config
+c:\users\dusty_000\documents\visual studio 2015\Projects\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.exe
+c:\users\dusty_000\documents\visual studio 2015\Projects\IteratorPattern\IteratorPattern\bin\Debug\IteratorPattern.pdb
+c:\users\dusty_000\documents\visual studio 2015\Projects\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.csprojResolveAssemblyReference.cache
+c:\users\dusty_000\documents\visual studio 2015\Projects\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.Form1.resources
+c:\users\dusty_000\documents\visual studio 2015\Projects\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.Properties.Resources.resources
+c:\users\dusty_000\documents\visual studio 2015\Projects\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.csproj.GenerateResource.Cache
+c:\users\dusty_000\documents\visual studio 2015\Projects\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.exe
+c:\users\dusty_000\documents\visual studio 2015\Projects\IteratorPattern\IteratorPattern\obj\Debug\IteratorPattern.pdb
